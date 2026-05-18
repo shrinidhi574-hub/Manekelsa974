@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Mane Kelsa</string>
+
+    <string name="login">Login</string>
+
+    <string name="signup">Signup</string>
+
+    <string name="email">Email</string>
+
+    <string name="password">Password</string>
+
+    <string name="post_job">Post Job</string>
+
+    <string name="view_jobs">View Jobs</string>
+
+    <string name="logout">Logout</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ಮನೆ ಕೆಲಸ</string>
+
+    <string name="login">ಲಾಗಿನ್</string>
+
+    <string name="signup">ನೋಂದಣಿ</string>
+
+    <string name="email">ಇಮೇಲ್</string>
+
+    <string name="password">ಪಾಸ್ವರ್ಡ್</string>
+
+    <string name="worker">ಕೆಲಸಗಾರ</string>
+
+    <string name="employer">ಉದ್ಯೋಗದಾತ</string>
+
+    <string name="post_job">ಕೆಲಸ ಪೋಸ್ಟ್ ಮಾಡಿ</string>
+
+    <string name="view_jobs">ಕೆಲಸಗಳನ್ನು ನೋಡಿ</string>
+
+    <string name="logout">ಲಾಗ್ ಔಟ್</string>
+
+</resources>

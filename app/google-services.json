@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "558387198365",
+    "firebase_url": "https://mane-kelsa-e11d1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mane-kelsa-e11d1",
+    "storage_bucket": "mane-kelsa-e11d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558387198365:android:cc817096724d3ba8199774",
+        "android_client_info": {
+          "package_name": "com.example.manekelsaproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxCpeSesSURCZs6YWUbC-xegWQP7r4Cyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558387198365:android:088139b4131e2d65199774",
+        "android_client_info": {
+          "package_name": "com.example.projectmanekelsa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxCpeSesSURCZs6YWUbC-xegWQP7r4Cyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
